@@ -1,0 +1,107 @@
+Que:
+1:WAP to perform the all operator in Different class 5.
+2:WAP to accept L, B from the user and calculate area of rectangle and peremeter
+3: WAP to accept R from user and Calculate AC, CC.
+4: WAP to accept P, R , N from user and calculate SI.
+
+Operators
+-------
+
+Arithmetic
+Assigment
+Logical:
+
+&&
+tt=t
+tf=f
+ft=f
+ff=f
+||
+tt=t
+tf=t
+ft=t
+ff=f
+
+!
+
+t=f
+f=t
+
+Bitwise:
+
+&
+|
+^
+
+&
+11=1
+10=0
+01=0
+00=0
+
+|
+
+11=1
+10=1
+01=1
+00=0
+
+^
+11=0
+10=1
+01=1
+00=0
+
+10 & 5
+
+1010
+0101  &
+-----
+0000 =(0)
+
+
+6
+10
+
+0110
+1010
+------
+0010 (2)
+
+1010
+0110  ^
+-----
+1100
+
+Relational
+
+>
+<
+>=
+<=
+==
+!=
+
+== =
+
+conditional
+
+?:
+()?A:B
+
+
+++
+--
+
+a=10;
+b= a++;
+
+b=11
+
+int 
+char
+double
+String
+
+
+
