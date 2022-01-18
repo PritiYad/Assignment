@@ -4,6 +4,53 @@ Que:
 3: WAP to accept R from user and Calculate AC, CC.
 4: WAP to accept P, R , N from user and calculate SI.
 
+
+Program:
+---------
+package Operators;
+
+import java.util.Scanner;
+
+public class Log_demo 
+{
+	public static void main(String[] args) 
+	{	
+		/*int n1=10,n2=20;
+		System.out.println("The LOgical && Operation="+(!(n1==n2 && n1!=n2)));
+
+
+		int n1,n2,res;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter two numbers");
+		n1=sc.nextInt();
+		n2=sc.nextInt();
+		//res=n1&n2;
+		
+		//res=n1|n2;
+		res=n1^n2;
+		System.out.println("The value of ^  is ="+res);
+		*/
+		
+	/*	int res,n1=10,n2=10;
+		System.out.println((n1==n2)?20:40);
+		
+		*/
+		int a=10,b;
+		b=++a;
+		System.out.println("The value of b is ="+b);
+		System.out.println("The value of a is ="+a);
+		
+	}	
+	
+
+}
+
+
+
+
+
+
+
 Operators
 -------
 
