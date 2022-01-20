@@ -1,0 +1,65 @@
+WAP to accept a no from user and check it is positive or negative
+HW://WAP to accept a no from user if no is divible by 5 than display the cube.
+HW://WAP to accept two no from user and find out the greatest
+If else Conditional statment:
+
+Syntax:
+
+if(condition)
+{
+	Statment Block;
+}
+else
+{
+	Statment Block;
+}
+
+If else if Conditional Statments:
+Syntax:
+if(condition)
+{
+	Statment Block;
+}
+else if(condition)
+{
+	Statment Block;
+}
+else if(conditon)
+{
+	Statment Block;
+}
+else
+{
+	Statment block;
+}
+
+Switch Case:
+
+switch(condition)
+{
+case 1:
+	Statment Block;
+break;
+case 2:
+	Statment Block;
+Break;
+....
+....
+...
+default:
+	Statment block;
+break;
+}
+//WAP to accept a character from user and check it is vowel or not.
+
+
+Nested Conditional Statments:
+
+WAP to accept choice from user and accordingly display the output
+1: EVEN ODD
+2:Greater between 3 NO
+3:Vowel or not
+4:accept a no and display the day (1:Monday 2: Tuesday .....7: Sunday)
+
+
+
